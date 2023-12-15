@@ -7,6 +7,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=150000&center=true&vCenter=true&multiline=true&random=true&width=435&height=300&lines=Welcome+to+my+home+page!" alt="Typing SVG" />
   </a>
 </p>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
 <!--
 **lkjj-lkjj/lkjj-lkjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
