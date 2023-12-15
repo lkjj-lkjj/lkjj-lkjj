@@ -1,5 +1,5 @@
 <p align="center" style="font-size: 100px;">
-  ### Hi there 👋
+  Hi there 👋
 </p>
 
 <p align="center" style="margin-top: 20px;">
