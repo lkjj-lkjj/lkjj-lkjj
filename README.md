@@ -1,8 +1,8 @@
 <p align="center">
-  ### Hi there 👋
+  # Hi there 👋
 </p>
 
-<p align="center">
+<p align="center" style="margin-top="20px"">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=150000&center=true&vCenter=true&multiline=true&random=true&width=435&height=300&lines=Welcome+to+my+home+page!" alt="Typing SVG" />
 </a>
